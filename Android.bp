@@ -1,0 +1,5 @@
+cc_library_headers {
+    name: "libboost_smart_ptr",
+    export_include_dirs: ["include"],
+    vendor_available: true,
+}
